@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ਕੁਇਜ਼_ਐਪ</string>
+    <string name="False">ਝੂਠ ਹੈ</string>
+    <string name="True">ਸੱਚ ਹੈ</string>
+    <string name="Question1">ਟੋਰਾਂਟੋ ਓਨਟਾਰੀਓ ਦੀ ਰਾਜਧਾਨੀ ਹੈ</string>
+    <string name="Question2">ਓਟਾਵਾ ਕੈਨੇਡਾ ਦੀ ਰਾਜਧਾਨੀ ਹੈ</string>
+    <string name="Question3">ਟੋਰਾਂਟੋ ਕੈਨੇਡਾ ਦੀ ਰਾਜਧਾਨੀ ਹੈ</string>
+    <string name="Question4">ਮਾਂਟਰੀਅਲ ਕਿਊਬਿਕ ਦੀ ਰਾਜਧਾਨੀ ਹੈ</string>
+    <string name="Question5">ਦਿੱਲੀ ਭਾਰਤ ਦੀ ਰਾਜਧਾਨੀ ਹੈ</string>
+    <string name="Question6">ਮੁੰਬਈ ਭਾਰਤ ਦੀ ਰਾਜਧਾਨੀ ਹੈ</string>
+    <string name="Question7">ਹੈਲੀਫੈਕਸ ਨੋਵਾ ਸਕੋਸ਼ੀਆ ਦੀ ਰਾਜਧਾਨੀ ਹੈ</string>
+    <string name="Question8">ਵਿਕਟੋਰੀਆ ਬ੍ਰਿਟਿਸ਼ ਕੋਲੰਬੀਆ ਦੀ ਰਾਜਧਾਨੀ ਹੈ</string>
+    <string name="Question9">ਕੈਨੇਡਾ ਵਿੱਚ 10 ਸੂਬੇ ਹਨ</string>
+    <string name="Question10">ਕੈਨੇਡਾ ਵਿੱਚ 4 ਪ੍ਰਦੇਸ਼ ਹਨ</string>
+    <string name="CorrectAnswer">ਤੁਹਾਡਾ ਜਵਾਬ ਸਹੀ ਹੈ</string>
+    <string name="IncorrectAnswer">ਤੁਹਾਡਾ ਜਵਾਬ ਗਲਤ ਹੈ</string>
+    <string name="hello_blank_fragment">ਹੈਲੋ ਖਾਲੀ ਟੁਕੜਾ</string>
+    <string name="get_the_average">ਔਸਤ ਪ੍ਰਾਪਤ ਕਰੋ</string>
+    <string name="select_the_number_of_question">ਪ੍ਰਸ਼ਨਾਂ ਦੀ ਸੰਖਿਆ ਚੁਣੋ</string>
+    <string name="reset_the_saved_result">ਸੇਵ ਕੀਤੇ ਨਤੀਜੇ ਨੂੰ ਰੀਸੈਟ ਕਰੋ</string>
+
+</resources>

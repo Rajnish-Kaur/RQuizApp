@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">RQuizApp</string>
+    <string name="False">False</string>
+    <string name="True">True</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Question1">Toronto is the capital city of Ontario</string>
+    <string name="Question2">Ottawa is the capital city of Canada</string>
+    <string name="Question3">Toronto is the capital city of Canada</string>
+    <string name="Question4">Montreal is the capital city of Quebec</string>
+    <string name="Question5">Delhi is the capital city of India</string>
+    <string name="Question6">Mumbai is the capital city of India</string>
+    <string name="Question7">Halifax is the capital city of Nova Scotia</string>
+    <string name="Question8">Victoria is the capital city of British Columbia</string>
+    <string name="Question9">There are 10 provinces in Canada</string>
+    <string name="Question10">There are 4 territories in Canada</string>
+    <string name="CorrectAnswer">Your answer is correct</string>
+    <string name="IncorrectAnswer">Your answer is incorrect</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get_the_average">Get The Average</string>
+    <string name="select_the_number_of_question">Select the number of question</string>
+    <string name="reset_the_saved_result">Reset The Saved Result</string>
+</resources>
